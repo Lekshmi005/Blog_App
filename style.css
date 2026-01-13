@@ -7,7 +7,7 @@
 
 body {
   min-height: 100vh;
-  background-image: url("blog_bg_img.jpg");
+  background-image: url("blogimg_2.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -91,3 +91,4 @@ form button:hover {
   color: #777;
   margin-top: 20px;
 }
+
